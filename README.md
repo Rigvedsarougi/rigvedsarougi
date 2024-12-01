@@ -60,6 +60,6 @@
 
 ###
 
-<p align="left">Data Scientist with 2 years of hands-on experience in Python, Machine Learning, MySQL, Streamlit, and Tableau. He has successfully developed and deployed multiple AI and data-driven solutions, including fraud detection tools, chatbot automation systems, and inventory management platforms.</p>
+<p align="left">Data Scientist with 2 years of hands-on experience in Python, Machine Learning, MySQL, Streamlit, and Tableau. Developed and Deployed multiple AI and data-driven solutions, including fraud detection tools, chatbot automation systems, and inventory management platforms.</p>
 
 ###
